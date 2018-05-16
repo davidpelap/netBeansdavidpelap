@@ -9,5 +9,6 @@
  * @author David-PC
  */
 public class Clase1 {
+    private int campo1;
     
 }
